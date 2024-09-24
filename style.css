@@ -1,0 +1,27 @@
+#titulo {
+  color: teal;
+}
+p>strong {
+  color: red;
+}
+.destacado, th.especial, td>strong {
+  color:orange;
+}
+#subtitulo, a em, caption {
+  color: blue;
+}
+a, th {
+  color: red;
+}
+span.especial {
+  color: purple;
+}
+td, a:last-child{
+  color: green;
+}
+body:last-child {
+  color: olive;
+}
+#especial{
+  color: fuchsia;
+}
